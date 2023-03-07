@@ -1,6 +1,6 @@
 # Adidas Sales Report
 
-## Fully responsive PowerBI Dashboard
+## Fully-responsive PowerBI Dashboard
 
 Technologies:
 
@@ -12,6 +12,6 @@ Data coverage from Jan 2020 to Dec 2021.
 
 ## Abstract
 
-This is a fully responsive dashboard created in Microsoft PowerBI software to show a Sales Report of products from Adidas.
+This is a fully-responsive Dashboard created in Microsoft PowerBI presenting a Sales Report of products from Adidas. You can interact with the Dashboard to narrow down your analysis in [this link](https://allisonpessoa.pythonanywhere.com/power-bi).
 
-![Dashboard](figures/dashboard.gif)
+![Dashboard](dashboard.gif)
