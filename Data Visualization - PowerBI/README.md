@@ -14,4 +14,4 @@ Data coverage from Jan 2020 to Dec 2021.
 
 This is a fully responsive dashboard created in Microsoft PowerBI software to show a Sales Report of products from Adidas.
 
-![Dashboard](figures/dashboard.png)
+![Dashboard](figures/dashboard.gif)
